@@ -1,1 +1,0 @@
-This is a conflict in the master branch.
